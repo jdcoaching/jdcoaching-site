@@ -106,7 +106,7 @@ WERKWIJZE = """
 
 <section><div class="wrap prose">
   <h2>Methodes</h2>
-  <p>Ik ben organisatiepsycholoog en NOBCO-erkend coach. Afhankelijk van je vraag werk ik met onder meer transactionele analyse (TA), NLP, Voice Dialogue, ACT, het model persoon-rol-systeem, systemisch werk en oplossingsgericht coachen.</p>
+  <p>Ik heb een NOBCO-geaccrediteerd coachdiploma. Afhankelijk van je vraag werk ik met onder meer transactionele analyse (TA), NLP, Voice Dialogue, ACT, het model persoon-rol-systeem, systemisch werk en oplossingsgericht coachen.</p>
 </div></section>
 
 <section><div class="wrap">
@@ -193,7 +193,7 @@ OVER_MIJ = """
 
 <section><div class="wrap about">
   <div class="prose">
-    <p class="lead">Organisatiepsycholoog, NOBCO-erkend coach, en adviseur op het gebied van leren, ontwikkeling en organisatie.</p>
+    <p class="lead">Coach met een NOBCO-geaccrediteerd diploma, en adviseur op het gebied van leren, ontwikkeling en organisatie.</p>
     <p>Ik coach professionals die iets willen veranderen in hun werk of hun leven. Mensen die goed zijn in wat ze doen, maar merken dat wat altijd werkte nu niet meer genoeg is.</p>
     <p>Naast coaching werk ik als leer- en ontwikkeladviseur en als organisatieadviseur. Daardoor kijk ik niet alleen naar jou, maar ook naar de rol die je hebt en de organisatie waarin je werkt.</p>
     <p>Ik geloof in bewustwording gecombineerd met actie. Daarom kijken we in mijn coaching niet alleen naar wat je denkt, maar ook naar wat je voelt en wat je doet. Tussen de gesprekken ga je zelf aan de slag, zodat de verandering in je eigen praktijk plaatsvindt.</p>
@@ -242,7 +242,7 @@ PRIVACY = """
 
 PAGES = [
     {"slug": "home", "title": "JDCoaching | Coaching voor professionals",
-     "description": "Coaching voor professionals die vastlopen in hun werk. Praktisch, persoonlijk en gericht op echte verandering. NOBCO-erkend coach Jasper Jörissen.",
+     "description": "Coaching voor professionals die vastlopen in hun werk. Praktisch, persoonlijk en gericht op echte verandering. Jasper Jörissen, coach met een NOBCO-geaccrediteerd diploma.",
      "body": HOME},
     {"slug": "werkwijze", "title": "Werkwijze",
      "description": "Van intake tot afronding: hoe een coachtraject bij JDCoaching verloopt, met welke methodes ik werk en met welke vragen coachees komen.",
@@ -254,7 +254,7 @@ PAGES = [
      "description": "Een coachgesprek kost €130 incl. btw (particulier) of €175 excl. btw (zakelijk). Het intakegesprek is gratis.",
      "body": KOSTEN},
     {"slug": "over-mij", "title": "Over mij",
-     "description": "Jasper Jörissen is organisatiepsycholoog, NOBCO-erkend coach en leer-, ontwikkel- en organisatieadviseur. Hij coacht professionals.",
+     "description": "Jasper Jörissen is coach met een NOBCO-geaccrediteerd diploma, en leer-, ontwikkel- en organisatieadviseur.",
      "body": OVER_MIJ},
     {"slug": "privacy", "title": "Privacyverklaring",
      "description": "Welke persoonsgegevens JDCoaching verwerkt, waarom, hoe lang en wat je rechten zijn.",

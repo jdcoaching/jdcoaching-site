@@ -62,7 +62,7 @@ def footer(mode, d=0):
     <a href="{s['linkedin']}" rel="noopener">LinkedIn</a>
     <a href="{href('privacy', mode, d)}">Privacyverklaring</a>
   </div>
-  <img class="badge" src="{asset('img/nobco.jpg', mode, d)}" width="220" height="120" alt="NOBCO erkend coach">
+  <img class="badge" src="{asset('img/nobco.jpg', mode, d)}" width="220" height="120" alt="NONONS erkend coach, NOBCO-geaccrediteerde opleiding">
 </div></footer>"""
 
 
